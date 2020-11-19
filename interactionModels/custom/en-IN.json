@@ -1,0 +1,47 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "auto industry facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AutoIndustryFactsIntent",
+          "slots": [],
+          "samples": [
+            "next facts",
+            "another facts",
+            "give me a fact on Auto Industry",
+            "give me a fact on Automobile Industry",
+            "tell something about Auto Industry",
+            "tell me a fact on Automobile industry",
+            "tell me a fact on Auto Industry",
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
